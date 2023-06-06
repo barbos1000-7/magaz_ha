@@ -1,0 +1,17 @@
+.src {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.inp {
+    width: 250px;
+    height: 15px;
+    border: 2px solid teal;
+    outline: none;
+}
+.bl {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 25px;
+}

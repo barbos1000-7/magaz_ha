@@ -1,0 +1,14 @@
+.butn {
+    border: 1px solid darkslategrey;
+    padding: 5px 15px;
+    font-size: 14px;
+    background: transparent;
+    cursor: pointer;
+    overflow: hidden;
+    text-decoration: none;
+    color: lightblue;
+}
+.active {
+    background: darkslategrey;
+    color: teal;
+}

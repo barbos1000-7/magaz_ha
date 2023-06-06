@@ -1,0 +1,12 @@
+.bl {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 25px;
+}
+.all {
+    margin-top:50px;
+}
+.select {
+    margin-left: 25px;
+}

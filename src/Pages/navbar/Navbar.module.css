@@ -1,0 +1,10 @@
+.nav {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 15% 25% 20% 25% 15%;
+    position: fixed;
+    overflow: hidden;
+    background: teal;
+    z-index: 1;
+
+}

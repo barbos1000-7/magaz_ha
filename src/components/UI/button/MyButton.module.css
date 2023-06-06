@@ -1,0 +1,10 @@
+
+.btn {
+    margin-top: 5px;
+    border: 2px solid grey;
+    padding: 3px 10px;
+    font-size: 14px;
+    background: transparent;
+    cursor: pointer;
+    text-align: center;
+}
